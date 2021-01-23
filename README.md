@@ -1,0 +1,2 @@
+# AnimeRating
+I wanted to see what I truly thought about an anime when I rate them on MyAnimeList, so with my 1 semester knowledge worth of Python, and like less than an hour of trying to learn PySimpleGUI and Pyinstaller, I've made a way to do so. The percentages are Enjoyment = 35%, Story = 30%, Concepts = 25%, and Quality = 10%. I'm not amazing at python but I was bored and I had a lot of free time lol
